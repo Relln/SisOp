@@ -43,10 +43,15 @@ Setelah instalasi Ubuntu Server, lakukan tasks berikut:
 ### Latihan 1.5
 Eksplorasi sistem yang baru diinstall:
 1. Tampilkan informasi OS: cat /etc/os-release
+![Alt text for screen readers](images/Latihan-1.5.1.jpg)
 2. Tampilkan versi kernel: uname -r
+![Alt text for screen readers](images/Latihan-1.5.2.jpg)
 3. List partisi: lsblk
+![Alt text for screen readers](images/Latihan-1.5.3.jpg)
 4. Check network connectivity: ping -c 4 google.com
+![Alt text for screen readers](images/Latihan-1.5.4.jpg)
 5. Install dan jalankan htop untuk melihat resource usage
+![Alt text for screen readers](images/Latihan-1.4.1.jpg)
 6. Buat laporan singkat tentang konfigurasi sistem Anda
 
 ## 1.10.3. Latihan Refleksi
@@ -62,6 +67,7 @@ pengalaman Anda.
 6. Setelah mempelajari bab ini, apakah ada sistem operasi lain yang ingin
 Anda coba? Mengapa?
 Tulis refleksi Anda dalam 300-500 kata disertai dengan dokumentasi.
+
 
 
 
