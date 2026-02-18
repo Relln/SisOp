@@ -1,4 +1,4 @@
-<img width="643" height="404" alt="image" src="https://github.com/user-attachments/assets/684bd183-13cf-4c7c-ba6e-164d60339b5c" /># 1 JOBSHEET-1
+# 1 JOBSHEET-1
 
 ## 1.10.1. Latihan Konseptual
 ### Latihan 1.1
@@ -76,6 +76,7 @@ Anda coba? Mengapa?
 Tulis refleksi Anda dalam 300-500 kata disertai dengan dokumentasi.
 = Setelah mendalami bab ini, saya menyadari bahwa OS bukan sekadar antarmuka grafis, melainkan arsitek utama yang mengelola interaksi antara hardware dan software. Berdasarkan praktikum yang saya lakukan menggunakan Ubuntu Server, saya tertarik untuk mengeksplorasi Arch Linux sebagai langkah pembelajaran berikutnya. Alasan saya memilih Arch Linux karena sistem ini sangat relevan dengan apa yang akan saya pelajari yaitu pemrogaman java, struktur jaringan dan manajemen sistem. untuk dokumentasinya dibawah ini, saya telah mengonfigurasi Ubuntu Server dengan contoh melalui tool htop, terpantau pengunaan RAM Sebesar 893 mb dari 1,92 gb.
 ![Alt text for screen readers](images/Latihan-1.5.1(2).jpg)
+
 
 
 
