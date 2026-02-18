@@ -1,4 +1,4 @@
-# 1 JOBSHEET-1
+# JOBSHEET-1
 
 ## 1.10.1. Latihan Konseptual
 ### Latihan 1.1
@@ -55,23 +55,23 @@ Eksplorasi sistem yang baru diinstall:
 ![Alt text for screen readers](images/Latihan-1.5.5(2).jpg)
 6. Buat laporan singkat tentang konfigurasi sistem Anda
 = Laporan Konfigurasi Sistem
-1. Identitas Pengguna
+- Identitas Pengguna
 Nama Lengkap: Farrel Novrizha Hidayat
 Nama Panggilan: farrel
-2. Spesifikasi Lingkungan Virtual
+- Spesifikasi Lingkungan Virtual
 Berdasarkan dokumentasi praktikum terbaru, sistem berjalan di atas lingkungan virtual dengan detail sebagai berikut:
 Platform Virtualisasi: Oracle VM VirtualBox
 Sistem Operasi Tamu (Guest OS): Ubuntu Server (LTS)
 Hostname: farrel (tertera pada prompt relln@farrel di terminal)
 Alokasi Memori (RAM): Total sebesar 1.92 GB
 Alokasi Swap: 2.00 GB
-3. Status Operasional Sistem (Monitoring via htop)
+- Status Operasional Sistem (Monitoring via htop)
 Hasil pemantauan real-time menunjukkan distribusi beban kerja sebagai berikut:
 Penggunaan CPU: Berada di kisaran 20.3%, terutama digunakan untuk menjalankan proses latar belakang.
 Penggunaan RAM: Terpakai sebesar 860 MB (sekitar 44% dari total alokasi).
 Layanan Utama yang Berjalan: MicroK8s (Kubernetes), termasuk kube-scheduler dan containerd yang dikelola oleh user root.
 Waktu Aktif (Uptime): Sistem telah berjalan stabil selama 01:34:59.
-4. Konfigurasi Keamanan & Akses
+- Konfigurasi Keamanan & Akses
 User Management: Menggunakan user spesifik relln dengan hak akses administratif melalui perintah sudo.
 Keamanan Data: Mengintegrasikan sistem hak akses berbasis Linux untuk melindungi integritas file sistem dan konfigurasi jaringan.
 
@@ -96,6 +96,7 @@ Tulis refleksi Anda dalam 300-500 kata disertai dengan dokumentasi.
 = Setelah mendalami bab ini, saya menyadari bahwa OS bukan sekadar antarmuka grafis, melainkan arsitek utama yang mengelola interaksi antara hardware dan software. Berdasarkan praktikum yang saya lakukan menggunakan Ubuntu Server, saya tertarik untuk mengeksplorasi Arch Linux sebagai langkah pembelajaran berikutnya. Alasan saya memilih Arch Linux karena sistem ini sangat relevan dengan apa yang akan saya pelajari yaitu pemrogaman java, struktur jaringan dan manajemen sistem. untuk dokumentasinya dibawah ini, saya telah mengonfigurasi Ubuntu Server dengan contoh melalui tool htop, terpantau pengunaan RAM Sebesar 893 mb dari 1,92 gb.
 ![Alt text for screen readers](images/Latihan-1.5.1(2).jpg)
 Refleksi ini memperkuat pemahaman saya bahwa pemilihan OS harus didasarkan pada kebutuhan use case. Bagi saya sebagai mahasiswa, mencoba sistem yang lebih kompleks seperti Arch Linux adalah investasi keterampilan teknis yang krusial untuk manajemen infrastruktur IT di masa depan.
+
 
 
 
