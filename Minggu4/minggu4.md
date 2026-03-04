@@ -2,8 +2,7 @@
 
 ## PRAKTIKUM 3
 ### Percobaan 1
-1. ![Alt text for screen readers](images/Percobaan-1-1.png)
-2. ![Alt text for screen readers](images/Percobaan-1-2.png)
+1 & 2. ![Alt text for screen readers](images/Percobaan-1-1&2.png)
 3. ![Alt text for screen readers](images/Percobaan-1-3.png)
 -  ![Alt text for screen readers](images/Percobaan-1-3(2).png)
 5. ![Alt text for screen readers](images/Percobaan-1-4.png)
@@ -64,11 +63,12 @@ Praktikum ini menunjukkan bahwa tidak semua "file" di Linux tersimpan di harddis
 
 > Manajemen File dan Direktori
 Kamu telah berhasil melakukan operasi manipulasi file dasar, termasuk:
-- Pembuatan dan Penghapusan: Menggunakan mkdir dan rmdir.
-- Duplikasi dan Perpindahan: Menggunakan cp dan mv untuk mengelola data di dalam direktori home.
+> - Pembuatan dan Penghapusan: Menggunakan mkdir dan rmdir.
+> - Duplikasi dan Perpindahan: Menggunakan cp dan mv untuk mengelola data di dalam direktori home.
 
 > Konsep Link (Symbolic Link)
 Salah satu poin penting adalah pemahaman tentang link. Kamu belajar bahwa symbolic link bertindak sebagai penunjuk (shortcut) ke file atau perangkat lain, seperti yang kamu lakukan pada perangkat tty. Kamu juga memahami batasan hard link yang tidak dapat diterapkan pada file perangkat atau antar sistem file yang berbeda.
 
 > Interaksi dengan Perangkat Hardware
 Dengan melakukan cp hello.txt terminal, kamu membuktikan filosofi Linux bahwa "Everything is a file". Mengirim data ke file perangkat terminal (/dev/tty1) secara otomatis akan menampilkan data tersebut ke layar fisik pengguna.
+
